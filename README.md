@@ -18,7 +18,7 @@ AspireGuide is an AI-powered career counseling system designed to provide person
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/Vinithkumar456/AspireGuide.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -44,8 +44,6 @@ AspireGuide is an AI-powered career counseling system designed to provide person
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For any queries or suggestions, contact kumarvinith935@gmail.com.
